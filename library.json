@@ -1,0 +1,10 @@
+{
+  "name": "lwip",
+  "version": "2.1.2",
+  "build": {
+    "srcFilter": [
+      "+<*>",
+      "-<src/apps/*>"
+    ]
+  }
+}

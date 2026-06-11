@@ -4,7 +4,8 @@
   "build": {
     "srcFilter": [
       "+<*>",
-      "-<src/apps/*>"
+      "-<apps/*>",
+      "-<apps>"
     ]
   }
 }

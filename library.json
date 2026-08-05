@@ -2,6 +2,7 @@
   "name": "lwip",
   "version": "2.1.2",
   "build": {
+    "includeDir": "src/include",
     "srcFilter": [
       "+<*>",
       "-<apps/*>",
@@ -9,3 +10,4 @@
     ]
   }
 }
+
